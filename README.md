@@ -1,1 +1,1 @@
-# Js-Practice-Programs
+JavaScript-Practice-Programs
